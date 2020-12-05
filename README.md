@@ -1,3 +1,1 @@
-# Ctest
-# Ubuntu
-# Ubuntu
+UbuntuC 정리
